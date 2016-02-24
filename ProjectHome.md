@@ -1,0 +1,1 @@
+Some people start up a WordPress blog and then want a bbPress forum later out of the same data. This script fulfills that need. It converts categories into forums, posts into topics and comments into replies. It also migrates tags and the status of topic (open/closed to new replies).
